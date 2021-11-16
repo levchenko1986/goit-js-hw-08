@@ -1,0 +1,27 @@
+27
+36D:\JS\HomeWork_08\src\css\styles.css132810321878110270 0
+39D:\JS\HomeWork_08\src\package-lock.json132810885866844818 0
+38D:\JS\HomeWork_08\src\03-feedback.html132809926760000000 0
+29D:\JS\HomeWork_08\src\.vscode132809232106766902 1
+30D:\JS\HomeWork_08\src\index.js132739472310000000 0
+37D:\JS\HomeWork_08\src\01-gallery.html132810294474368287 0
+35D:\JS\HomeWork_08\src\02-video.html132814351160117329 0
+38D:\JS\HomeWork_08\src\sass\common.scss132811756295167910 0
+25D:\JS\HomeWork_08\src\css132814434924045980 1
+39D:\JS\HomeWork_08\src\js\02-lightbox.js132810300139502947 0
+28D:\JS\HomeWork_08\src\images132814429993772253 1
+32D:\JS\HomeWork_08\src\index.html132809158340000000 0
+24D:\JS\HomeWork_08\src\js132814434924168446 1
+30D:\JS\HomeWork_08\src\partials132814429993848010 1
+26D:\JS\HomeWork_08\src\sass132814433240583982 1
+36D:\JS\HomeWork_08\src\sass\main.scss132811195642866874 0
+43D:\JS\HomeWork_08\src\partials\example.html132739472310000000 0
+38D:\JS\HomeWork_08\src\js\01-gallery.js132810294025227620 0
+36D:\JS\HomeWork_08\src\js\02-video.js132814355059352661 0
+39D:\JS\HomeWork_08\src\js\03-feedback.js132814386597062448 0
+41D:\JS\HomeWork_08\src\js\gallery-items.js132809158340000000 0
+37D:\JS\HomeWork_08\src\images\demo.jpg132739472310000000 0
+40D:\JS\HomeWork_08\src\css\01-gallery.css132809926760000000 0
+41D:\JS\HomeWork_08\src\css\03-feedback.css132809926760000000 0
+36D:\JS\HomeWork_08\src\css\common.css132809158340000000 0
+43D:\JS\HomeWork_08\src\.vscode\settings.json132809232107625555 0
