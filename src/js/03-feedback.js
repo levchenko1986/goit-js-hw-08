@@ -43,6 +43,9 @@ function onFormSubmit(evt) {
         email: form.email.value,
         message: form.message.value
     };
+    formData.email = '';
+    formData.message = '';
+  
     console.log(e);
     localStorage.clear();
 
